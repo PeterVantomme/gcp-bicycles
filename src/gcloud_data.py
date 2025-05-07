@@ -1,0 +1,5 @@
+PROJECT_ID = 'test-bicycles'
+DATASET_NAME = 'bicycle_test_raw'
+TABLE_NAME_CYCLE_HIRE = 'raw_bicycles_hires'
+TABLE_NAME_CYCLE_STATION = 'raw_bicycles_stations'
+BUCKET_PATH = 'gs://test-bicycles-src/'
